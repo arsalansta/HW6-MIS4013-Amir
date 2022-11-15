@@ -1,14 +1,4 @@
 
-<!DOCTYPE html>
-<html>
-<body>
-
-<h1>java.util</h1>
-
-
-
-
-<script>
 import java.util.*; // import the java.util package 
 
 class Main {
@@ -23,10 +13,3 @@ class Main {
     System.out.println("Username is: " + userName);        
   }
 }
-</script>
-
-</body>
-</html>
-
-
-
