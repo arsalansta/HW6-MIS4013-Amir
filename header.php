@@ -7,7 +7,7 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="Three.js.html">function1</a>
+          <a class="nav-link active" aria-current="page" href="Three.js">function1</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="D3.js.html">function2</a>
