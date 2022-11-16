@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/104/three.js"></script>
 <body>
   <h2>three.js</h2>
 <div class="relative w-screen h-screen">
