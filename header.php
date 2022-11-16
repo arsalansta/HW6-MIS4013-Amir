@@ -10,16 +10,16 @@
           <a class="nav-link active" aria-current="page" href="function1.html">function1</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="function2.html">function2</a>
+          <a class="nav-link" href="D3.js.html">function2</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="function3.html">function3</a>
+          <a class="nav-link" href="chart.js.html">function3</a>
         </li>
 	       <li class="nav-item">
-          <a class="nav-link" href="function4.html">function4</a>
+          <a class="nav-link" href="google-charts.html">function4</a>
         </li> 
 	      <li class="nav-item">
-          <a class="nav-link" href="function5.html">function5</a>
+          <a class="nav-link" href="plotly.html">function5</a>
         </li>
         <li class="nav-item">
           <a class="nav-link disabled">Disabled</a>
