@@ -1,6 +1,15 @@
+<!DOCTYPE html>
+<html>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<body>
+  <h2>three.js</h2>
+<div class="relative w-screen h-screen">
+  <div class="grid-icosahedron w-full h-full bg-black overflow-hidden"></div>
+</div>
 
 
 
+<script>
 
 
 
@@ -1058,3 +1067,9 @@ const start = () => {
 };
 
 start();
+
+
+</script>
+
+</body>
+</html>
